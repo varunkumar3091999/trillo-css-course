@@ -263,9 +263,10 @@ body {
 
 .legal {
   font-size: 1rem;
+  color: var(--color-grey-light-4);
   text-align: center;
   padding: 2.5rem; }
-  @media only screen and (max-width: 75em) {
+  @media only screen and (max-width: 56.25em) {
     .legal {
       display: none; } }
 
