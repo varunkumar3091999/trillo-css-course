@@ -149,10 +149,9 @@
 
 
 
-	@media only screen and (max-width: $bp-largest) {
+	@media only screen and (max-width: $bp-medium) {
 		display: flex;
 		margin: 0;
-
 	}
 
 	&__item {
@@ -166,7 +165,7 @@
 			}
 		}
 
-		@media only screen and (max-width: $bp-largest) {
+		@media only screen and (max-width: $bp-medium) {
 			flex: 1;
 		}
 	}
@@ -554,7 +553,6 @@
 
 	@media only screen and (max-width: $bp-largest) {
 		padding: 2.5rem 0;
-
 	}
 
 	&__book-now {
