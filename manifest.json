@@ -1,0 +1,14 @@
+{
+  "name": "Trillo landing page",
+  "short_name": "Trillo",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "./img/favicon.png",
+      "sizes": "153x153",
+      "type": "image/png"
+    }
+  ]
+}
